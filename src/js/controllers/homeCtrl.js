@@ -6,5 +6,5 @@ angular.module('ex1').controller('HomeCtrl',function($scope,$interval,equationRe
         // lighting resolve - just visual effects
         $scope.colorOfResolve='#6FD49A' ;
         $interval(function(){ $scope.colorOfResolve='white';} ,3000);
-    }
+    } ;
 });

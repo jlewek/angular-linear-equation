@@ -298,7 +298,7 @@
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/alerts.less" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/_includes/icons/text-editor.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/font-awesome/scss/_extras.scss" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
-    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453726076758" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453726965192" ignored="false" />
     <file path="/HomeCtrl.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453725745345" ignored="false" />
     <file path="/EquationResolverService.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453726062608" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -382,17 +382,29 @@
       <file leaf-file-name="HomeCtrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/controllers/HomeCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+            <state line="8" column="7" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquationResolverService.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EquationResolverService.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.14834206">
+            <state line="16" column="56" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="193" column="54" selection-start="5716" selection-end="5716" vertical-scroll-proportion="0.3327645">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1942#2045#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -440,9 +452,10 @@
         <option value="$PROJECT_DIR$/partial/home/home.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/homeCtrl.js" />
         <option value="$PROJECT_DIR$/service/equationResolverService.js" />
-        <option value="$PROJECT_DIR$/src/js/controllers/HomeCtrl.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/js/service/EquationResolverService.js" />
+        <option value="$PROJECT_DIR$/src/js/controllers/HomeCtrl.js" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
       </list>
     </option>
   </component>
@@ -550,28 +563,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -852,15 +843,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/HomeCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+        <state line="8" column="7" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.14834206">
+        <state line="16" column="56" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="54" selection-start="5716" selection-end="5716" vertical-scroll-proportion="0.3327645">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1942#2045#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
