@@ -1,5 +1,4 @@
 angular.module('ex1').controller('HomeCtrl',function($scope,$interval,equationResolverService){
-
     $scope.resolve=function(){   // action function - click on resolve button in app
 
         $scope.outputResolve=equationResolverService.resolve($scope.aValue, $scope.bValue);  // return resolve of equatation
