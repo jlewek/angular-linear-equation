@@ -5,14 +5,14 @@ angular.module('ex1').service('equationResolverService',function() {
 
         if(a!=0&&b!=0){
             x=(a/b)*(-1);
-            return x; // return resolve of equatiton
+            return {"resolve":x,"type":"indicated"}; // return resolve of equatiton
         }
         else{
             if(b!=0){
-                return true;   // equatiton is contrary
+                return {"resolve":null,"type":"contrary"};   // equatiton is contrary
             }
             else{
-                return false; // equatiton is identify
+                return {"resolve":null,"type":"identify"}; // equatiton is identify
             }
         }
 

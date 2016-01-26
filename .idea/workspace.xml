@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/resolve.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453382205310" ignored="false" />
     <file path="/index.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453725568310" ignored="false" />
-    <file path="/home.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383449606" ignored="false" />
+    <file path="/home.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453795607942" ignored="false" />
     <file path="/homeCtrl.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383599311" ignored="false" />
     <file path="/equationResolverService.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383585822" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/_includes/icons/currency.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699503" ignored="false" />
@@ -298,9 +298,12 @@
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/alerts.less" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/_includes/icons/text-editor.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/font-awesome/scss/_extras.scss" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
-    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453726965192" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453795755488" ignored="false" />
     <file path="/HomeCtrl.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453725745345" ignored="false" />
-    <file path="/EquationResolverService.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453726062608" ignored="false" />
+    <file path="/EquationResolverService.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453795743553" ignored="false" />
+    <file path="/Dummy.txt" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735266484" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/partial/footer/footer.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735052485" ignored="false" />
+    <file path="/footer.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735007492" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,7 +367,16 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partial/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="42" selection-start="835" selection-end="843" vertical-scroll-proportion="-8.5">
+            <state line="7" column="49" selection-start="368" selection-end="368" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EquationResolverService.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -373,7 +385,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="64" selection-start="222" selection-end="222" vertical-scroll-proportion="4.098039">
+            <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-7.901961">
               <folding />
             </state>
           </provider>
@@ -388,23 +400,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquationResolverService.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="56" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="194" column="83" selection-start="5896" selection-end="5896" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <file leaf-file-name="app.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="54" selection-start="5716" selection-end="5716" vertical-scroll-proportion="0.3327645">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1942#2045#0" expanded="false" />
-              </folding>
+            <state line="5" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -430,7 +441,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+            <state line="18" column="3" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -448,14 +459,15 @@
       <list>
         <option value="$PROJECT_DIR$/service/resolve.js" />
         <option value="$PROJECT_DIR$/partial/home/homeCtrl.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/partial/home/home.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/homeCtrl.js" />
         <option value="$PROJECT_DIR$/service/equationResolverService.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/js/service/EquationResolverService.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/HomeCtrl.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app.less" />
+        <option value="$PROJECT_DIR$/partial/home/home.html" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/src/js/service/EquationResolverService.js" />
       </list>
     </option>
   </component>
@@ -563,6 +575,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -694,7 +728,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1301" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1301" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -704,7 +738,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17151767" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17076923" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -714,7 +748,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40021345" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20258273" sideWeight="0.6707193" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20258273" sideWeight="0.8292308" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -806,13 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -827,16 +854,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="194" column="83" selection-start="5896" selection-end="5896" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partial/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="835" selection-end="843" vertical-scroll-proportion="-8.5">
+        <state line="7" column="49" selection-start="368" selection-end="368" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="3" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="64" selection-start="222" selection-end="222" vertical-scroll-proportion="4.098039">
+        <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-7.901961">
           <folding />
         </state>
       </provider>
@@ -850,18 +900,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="56" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+        <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="54" selection-start="5716" selection-end="5716" vertical-scroll-proportion="0.3327645">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1942#2045#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
