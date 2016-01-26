@@ -298,12 +298,18 @@
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/alerts.less" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/_includes/icons/text-editor.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/font-awesome/src/3.2.1/assets/font-awesome/scss/_extras.scss" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453383699506" ignored="false" />
-    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453795755488" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/.idea/workspace.xml" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453798181024" ignored="false" />
     <file path="/HomeCtrl.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453725745345" ignored="false" />
     <file path="/EquationResolverService.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453795743553" ignored="false" />
-    <file path="/Dummy.txt" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735266484" ignored="false" />
+    <file path="/Dummy.txt" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796980377" ignored="false" />
     <file path="$PROJECT_DIR$/../../fs_portal_yo/partial/footer/footer.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735052485" ignored="false" />
     <file path="/footer.html" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453735007492" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/partial/blocked-users/blocked-users.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796939243" ignored="false" />
+    <file path="/blocked-users.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796938932" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/partial/chat-archive/chat-archive.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796966109" ignored="false" />
+    <file path="/chat-archive.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796965574" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fs_portal_yo/partial/favorite-users/favorite-users.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796972236" ignored="false" />
+    <file path="/favorite-users.js" changelist="f067514c-97ea-4ee6-b684-2db123f11246" time="1453796972236" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,7 +379,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquationResolverService.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EquationResolverService.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
@@ -382,10 +388,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="42" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-7.901961">
+            <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.73007244">
               <folding />
             </state>
           </provider>
@@ -884,13 +899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-7.901961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/HomeCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
@@ -901,6 +909,20 @@
     <entry file="file://$PROJECT_DIR$/src/js/service/EquationResolverService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="42" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="67" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.73007244">
           <folding />
         </state>
       </provider>
