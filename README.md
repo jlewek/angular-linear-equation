@@ -1,3 +1,5 @@
+Angular Linear Equation v1.0
+
 This app is create to resolve linear equation.
 
 You can input two number value in input on the left and click resolve
